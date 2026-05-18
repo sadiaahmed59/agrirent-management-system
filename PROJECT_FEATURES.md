@@ -10,3 +10,8 @@ The system allows users to resend verification email and enforces link expiratio
 Description: This task involves creating login functionality for Farmer, Admin, and Employee users. 
 Status: Implemented 
  
+## T-29: FR-Farmer-Account Deletion 
+Description: This task involves creating account deletion functionality for Farmer. 
+User Story: As a user, I want to delete my account. 
+Status: Implemented 
+ 
